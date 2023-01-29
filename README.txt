@@ -1,0 +1,1 @@
+First you need to install the necessary libraries using pip: pip install gTTS pdfplumber
